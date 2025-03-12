@@ -1,0 +1,10 @@
+*.aux
+*.out
+*.log
+*.fls
+*latexmk
+*.gz
+extracted_students/
+*.pdf
+*.tex
+
